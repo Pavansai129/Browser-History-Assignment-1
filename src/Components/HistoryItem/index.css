@@ -1,0 +1,17 @@
+.history-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.history-item-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.delete-button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
